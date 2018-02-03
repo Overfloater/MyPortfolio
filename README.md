@@ -1,2 +1,1 @@
-# ThemeTest
-Testing new theme for portfolio
+# ReadMe File
